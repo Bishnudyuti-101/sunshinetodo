@@ -20,7 +20,7 @@ screenshot:
 Just clone or download this repository and open `index.html` in your browser. No installation required.
 
 ```bash
-git clone https://github.com/yourusername/SunshineTodo.git
+git clone https://github.com:Bishnudyuti-101/sunshinetodo.git
 cd SunshineTodo
 
 ## 🚀 Getting Started
